@@ -1,0 +1,5 @@
+E:\Jarvis\Uygulamalar\HesapMakinesi.exe
+E:\Jarvis\Uygulamalar\HesapMakinesi.dll
+E:\Jarvis\Uygulamalar\HesapMakinesi.deps.json
+E:\Jarvis\Uygulamalar\HesapMakinesi.runtimeconfig.json
+E:\Jarvis\Uygulamalar\HesapMakinesi.pdb
